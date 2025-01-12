@@ -18,4 +18,7 @@
 - [Islamic Microfinance: Shari'ah Compliant and Sustainable? By  Ajaz Ahmed Khan](https://books.google.de/books/about/Islamic_Microfinance.html?id=EZv7MAAACAAJ)
 ### Diagrams
 - [Islamic Microfinance Risks Mitigation mindmap](./risk-mitigation-mindmap.md)
-  
+
+### Governance and Standardization
+- [Accounting and auditing organization for Islamic Financial Institutions](https://aaoifi.com/?lang=en)
+- [ISLAMIC FINANCIAL SERVICES BOARD](https://www.ifsb.org/ar/)
