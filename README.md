@@ -22,3 +22,6 @@
 ### Governance and Standardization
 - [Accounting and auditing organization for Islamic Financial Institutions](https://aaoifi.com/?lang=en)
 - [ISLAMIC FINANCIAL SERVICES BOARD](https://www.ifsb.org/ar/)
+
+## Insurance
+- [ISSUES IN REGULATION AND SUPERVISION OF MICROTAKĀFUL (ISLAMIC MICROINSURANCE)](https://www.iaisweb.org/uploads/2022/01/151118-Issues-Paper-on-Regulation-and-Supervision-of-Microtakaful-Islamic-Microinsurance.pdf)
