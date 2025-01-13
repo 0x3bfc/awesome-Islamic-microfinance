@@ -12,6 +12,7 @@
 - [Central Bank Of Oman](https://cbo.gov.om/Pages/IslamicBankingRegulatoryFramework.aspx)
 - [State Bank of Pakistan](https://www.sbp.org.pk/departments/ibd/regulation_supervision.pdf)
 - [Central Bank of Nigeria](https://www.cbn.gov.ng/out/2016/fprd/nimfb.pdf)
+- [Bank Negara Malaysia](https://www.bnm.gov.my/documents/20124/8102422b-e6dd-d149-8db0-e3637e89ed5c)
 
 ### Books
 
