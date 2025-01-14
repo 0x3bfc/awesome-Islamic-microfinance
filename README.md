@@ -22,6 +22,7 @@
 - [Islamic Microfinance Risks Mitigation mindmap](./risk-mitigation-mindmap.md)
 
 ### Governance and Standardization
+- [Shari’ah governance regimes for islamic finance: types and appraisal](https://www.iei1946.it/RePEc/ccg/AHMED%20393_412.pdf)
 - [Accounting and auditing organization for Islamic Financial Institutions](https://aaoifi.com/?lang=en)
 - [ISLAMIC FINANCIAL SERVICES BOARD](https://www.ifsb.org/ar/)
 
