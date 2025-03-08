@@ -5,6 +5,9 @@
 
 ## Contents
 
+### Guidelines
+- [CGAP Microfinance Consensus Guidelines](https://www.cgap.org/sites/default/files/CGAP-Consensus-Guidelines-Guiding-Principles-on-Regulation-and-Supervision-of-Microfinance-Jun-2003.pdf)
+
 ### Articles
 - [The core principles for islamic finance regulations and assessment methodology by World Bank Group](https://documents1.worldbank.org/curated/en/672751528515184661/pdf/REVISED-Board-CPIFR-May-30-2018-06042018.pdf)
 
